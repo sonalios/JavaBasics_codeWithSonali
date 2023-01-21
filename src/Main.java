@@ -2,6 +2,7 @@ public class Main {
 
     static{
         System.out.println("Welcome");
+        System.out.println("Clone");
     }
     public static void main(String[] args) {
         String inputString = "gig step";
